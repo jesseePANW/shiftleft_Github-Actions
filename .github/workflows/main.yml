@@ -14,8 +14,9 @@ jobs:
           BYPASS_IMAGESCAN: 1
           BYPASS_WF: 1
           BYPASS_SANDBOX: 1
-    steps:
-        hi
+    steps: 
+    
+      
       - name: Checkout
         uses: actions/checkout@v2
         
