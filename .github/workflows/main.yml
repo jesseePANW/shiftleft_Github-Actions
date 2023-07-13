@@ -2,6 +2,7 @@ name: Prisma Cloud Shift Left demo
 on: [ push,pull_request ]
 
 
+
 jobs:
   prisma_cloud_job:
     runs-on: ubuntu-latest
